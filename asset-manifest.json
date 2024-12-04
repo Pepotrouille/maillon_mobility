@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maillonmobility/static/css/main.f7f5a7c5.css",
-    "main.js": "/maillonmobility/static/js/main.3927e7d7.js",
+    "main.js": "/maillonmobility/static/js/main.be5568dd.js",
     "static/js/453.a5742be4.chunk.js": "/maillonmobility/static/js/453.a5742be4.chunk.js",
     "index.html": "/maillonmobility/index.html",
     "main.f7f5a7c5.css.map": "/maillonmobility/static/css/main.f7f5a7c5.css.map",
-    "main.3927e7d7.js.map": "/maillonmobility/static/js/main.3927e7d7.js.map",
+    "main.be5568dd.js.map": "/maillonmobility/static/js/main.be5568dd.js.map",
     "453.a5742be4.chunk.js.map": "/maillonmobility/static/js/453.a5742be4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f5a7c5.css",
-    "static/js/main.3927e7d7.js"
+    "static/js/main.be5568dd.js"
   ]
 }
