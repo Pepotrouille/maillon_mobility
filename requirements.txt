@@ -1,0 +1,2 @@
+npm i react-bluetooth  
+npm i recharts
