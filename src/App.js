@@ -114,7 +114,10 @@ function App() {
         </div>
         
         <div className="chart-div">
-          <Chart heartRateData={heartRateData} />
+          <div>
+            <h2>Evolution du rythme cardiaque</h2>
+            <Chart heartRateData={heartRateData} />
+          </div>
         </div>
         
         <div className="effort-level">
